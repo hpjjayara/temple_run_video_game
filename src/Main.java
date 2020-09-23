@@ -35,7 +35,7 @@ public class Main extends Application {
         Scanner sc = new Scanner(System.in);
         String option = "z";
         while (!option.equalsIgnoreCase("Q")) { //select the options
-            System.out.println("\n<<--------Welcome to Temple Run Game !!!-------->>");
+            System.out.println("\n<<--------Welcome to Temple Run 2 Game !!!-------->>");
             System.out.println("Enter \"A\" to add a competitor details :");
             System.out.println("Enter \"H\" to view competitor with the highest score :");
             System.out.println("Enter \"D\" to view competitor who ran the maximum distance :");
